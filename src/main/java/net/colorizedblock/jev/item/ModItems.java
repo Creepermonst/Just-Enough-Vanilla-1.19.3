@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item ORANGE = registerItem("orange",
-            new Item(new FabricItemSettings()));
+            new Item(new FabricItemSettings().food(ModFoodComponents.ORANGE)));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, new Identifier(JustEnoughVanilla.MOD_ID, name), item);
