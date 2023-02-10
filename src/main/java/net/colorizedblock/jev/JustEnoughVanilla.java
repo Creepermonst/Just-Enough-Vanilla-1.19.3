@@ -1,5 +1,6 @@
 package net.colorizedblock.jev;
 
+import net.colorizedblock.jev.item.ModItemGroup;
 import net.colorizedblock.jev.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +13,7 @@ public class JustEnoughVanilla implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroup.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }
