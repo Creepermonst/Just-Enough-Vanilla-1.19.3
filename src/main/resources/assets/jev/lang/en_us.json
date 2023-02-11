@@ -1,3 +1,12 @@
 {
-  "item.jev.orange": "Orange"
+  "item.jev.orange": "Orange",
+
+  "block.jev.smooth_marble": "Smooth Marble",
+  "block.jev.chiseled_marble": "Chiseled Marble",
+  "block.jev.marble": "Marble",
+  "block.jev.marble_block": "Block Of Marble",
+  "block.jev.marble_pillar": "Marble Pillar",
+  "block.jev.marble_bricks": "Marble Bricks",
+
+  "itemgroup.jev": "Just Enough Vanilla"
 }

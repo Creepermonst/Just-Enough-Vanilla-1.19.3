@@ -12,7 +12,7 @@ public class ModItemGroup {
 
     public static void registerItemGroups(){
         JEV = FabricItemGroup.builder(new Identifier(JustEnoughVanilla.MOD_ID, "jev"))
-                .displayName(Text.literal("Just Enough Vanilla"))
+                .displayName(Text.translatable("itemgroup.jev"))
                 .icon(() -> new ItemStack(ModItems.ORANGE)).build();
     }
 
