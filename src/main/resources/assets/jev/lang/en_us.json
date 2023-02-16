@@ -1,6 +1,13 @@
 {
   "item.jev.orange": "Orange",
 
+  "item.jev.netherite_knife": "Netherite Knife",
+  "item.jev.diamond_knife": "Diamond Knife",
+  "item.jev.iron_knife": "Iron Knife",
+  "item.jev.stone_knife": "Stone Knife",
+  "item.jev.gold_knife": "Gold Knife",
+  "item.jev.wood_knife": "Wood Knife",
+
   "block.jev.smooth_marble": "Smooth Marble",
   "block.jev.chiseled_marble": "Chiseled Marble",
   "block.jev.marble": "Marble",
