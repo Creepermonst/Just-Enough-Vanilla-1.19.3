@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "jev:item/flute",
+		"particle": "miencraft:block/gold_block"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 9],
+			"to": [10, 17, 12],
+			"faces": {
+				"north": {"uv": [10, 0, 13, 16], "texture": "#1"},
+				"east": {"uv": [7, 0, 10, 16], "texture": "#1"},
+				"south": {"uv": [1, 0, 4, 16], "texture": "#1"},
+				"west": {"uv": [4, 0, 7, 16], "texture": "#1"},
+				"up": {"uv": [13, 5, 16, 8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [13, 5, 16, 8], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.25, -2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.25, -2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-60.02, -13.16, -21.46],
+			"translation": [2.75, 0, -2.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-60.02, -13.16, -21.46],
+			"translation": [2.75, 0, -2.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -45, -45],
+			"translation": [1.5, 0, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Main Body",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0]
+		}
+	]
+}

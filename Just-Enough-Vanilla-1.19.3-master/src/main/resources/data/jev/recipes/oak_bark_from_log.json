@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:smooth_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "jev:oak_bark"
+
+  }
+}

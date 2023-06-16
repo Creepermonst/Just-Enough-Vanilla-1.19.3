@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "jev:gold_knife",
+    "count": 1
+  }
+}

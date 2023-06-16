@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "jev:block/marble_block",
+    "top": "jev:block/marble_block",
+    "side": "jev:block/marble_block"
+  }
+}

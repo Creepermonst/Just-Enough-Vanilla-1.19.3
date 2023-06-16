@@ -1,0 +1,32 @@
+{
+  "item.jev.orange": "Orange",
+  "item.jev.flute": "Flute",
+
+  "item.jev.oak_bark": "Oak Bark",
+  "item.jev.birch_bark": "Birch Bark",
+  "item.jev.spruce_bark": "Spruce Bark",
+  "item.jev.mangrove_bark": "Mangrove Bark",
+  "item.jev.dark_oak_bark": "Dark Oak Bark",
+  "item.jev.acacia_bark": "Acacia Bark",
+  "item.jev.jungle_bark": "Jungle Bark",
+
+  "item.jev.netherite_knife": "Netherite Knife",
+  "item.jev.diamond_knife": "Diamond Knife",
+  "item.jev.iron_knife": "Iron Knife",
+  "item.jev.stone_knife": "Stone Knife",
+  "item.jev.gold_knife": "Gold Knife",
+  "item.jev.wood_knife": "Wood Knife",
+
+  "block.jev.smooth_marble": "Smooth Marble",
+  "block.jev.chiseled_marble": "Chiseled Marble",
+  "block.jev.marble": "Marble",
+  "block.jev.marble_block": "Block Of Marble",
+  "block.jev.marble_pillar": "Marble Pillar",
+  "block.jev.marble_bricks": "Marble Bricks",
+  "block.jev.marble_slab": "Marble Slab",
+  "block.jev.marble_stairs": "Marble Stairs",
+  "block.jev.smooth_marble_slab": "Smooth Marble Slab",
+  "block.jev.smooth_marble_stairs": "Smooth Marble Stairs",
+
+  "itemgroup.jev": "Just Enough Vanilla"
+}

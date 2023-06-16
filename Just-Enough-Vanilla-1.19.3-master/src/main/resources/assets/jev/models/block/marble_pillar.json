@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jev:block/marble_pillar_top",
+    "up": "jev:block/marble_pillar_top",
+    "north": "jev:block/marble_pillar",
+    "east": "jev:block/marble_pillar",
+    "south": "jev:block/marble_pillar",
+    "west": "jev:block/marble_pillar",
+    "particle": "jev:block/marble_pillar"
+  }
+}
