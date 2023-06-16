@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "jev:marble_block"
+  },
+  "result": "jev:marble_bricks",
+  "count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jev:block/smooth_marble_slab"
+    },
+    "type=double": {
+      "model": "jev:block/smooth_marble_block"
+    },
+    "type=top": {
+      "model": "jev:block/smooth_marble_slab_top"
+    }
+  }
+}

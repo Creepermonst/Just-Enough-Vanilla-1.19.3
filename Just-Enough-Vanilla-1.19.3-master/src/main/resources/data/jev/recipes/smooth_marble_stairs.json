@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "jev:smooth_marble_block"
+    }
+  },
+  "result": {
+    "item": "jev:smooth_marble_stairs",
+    "count": 4
+  }
+}
