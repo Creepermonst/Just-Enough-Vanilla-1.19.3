@@ -1,5 +1,4 @@
 {
-  "item.jev.orange": "Orange",
   "item.jev.flute": "Flute",
 
   "item.jev.oak_bark": "Oak Bark",
@@ -9,6 +8,24 @@
   "item.jev.dark_oak_bark": "Dark Oak Bark",
   "item.jev.acacia_bark": "Acacia Bark",
   "item.jev.jungle_bark": "Jungle Bark",
+  "item.jev.crimson_bark": "Crimson Bark",
+  "item.jev.warped_bark": "Warped Bark",
+
+  "block.jev.hollow_oak_log": "Hollow Oak Log",
+  "block.jev.hollow_birch_log": "Hollow Birch Log",
+  "block.jev.hollow_spruce_log": "Hollow Spruce Log",
+  "block.jev.hollow_mangrove_log": "Hollow Mangrove Log",
+  "block.jev.hollow_dark_oak_log": "Hollow Dark Oak Log",
+  "block.jev.hollow_acacia_log": "Hollow Acacia Log",
+  "block.jev.hollow_jungle_log": "Hollow Jungle Log",
+
+  "block.jev.grassy_hollow_oak_log": "Grassy Hollow Oak Log",
+  "block.jev.grassy_hollow_birch_log": "Grassy Hollow Birch Log",
+  "block.jev.grassy_hollow_spruce_log": "Grassy Hollow Spruce Log",
+  "block.jev.grassy_hollow_mangrove_log": "Grassy Hollow Mangrove Log",
+  "block.jev.grassy_hollow_dark_oak_log": "Grassy Hollow Dark Oak Log",
+  "block.jev.grassy_hollow_acacia_log": "Grassy Hollow Acacia Log",
+  "block.jev.grassy_hollow_jungle_log": "Grassy Hollow Jungle Log",
 
   "item.jev.netherite_knife": "Netherite Knife",
   "item.jev.diamond_knife": "Diamond Knife",

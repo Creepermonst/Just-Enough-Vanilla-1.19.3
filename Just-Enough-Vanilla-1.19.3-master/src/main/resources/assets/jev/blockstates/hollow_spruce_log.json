@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "jev:block/hollow_spruce_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "jev:block/hollow_spruce_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "jev:block/hollow_spruce_log"
+    }
+  }
+}
