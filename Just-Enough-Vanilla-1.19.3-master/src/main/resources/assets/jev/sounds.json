@@ -1,0 +1,14 @@
+{
+  "flute1": {
+    "subtitle": "subtitles.jev.flute",
+    "sounds": [
+      "jev:flute1"
+    ]
+  },
+  "flute2": {
+    "subtitle": "subtitles.jev.flute",
+    "sounds": [
+      "jev:flute2"
+    ]
+  }
+}

@@ -3,6 +3,7 @@ package net.colorizedblock.jev.item;
 import net.colorizedblock.jev.JustEnoughVanilla;
 //import net.colorizedblock.jev.item.custom.BarkItem;
 import net.colorizedblock.jev.item.custom.BarkItem;
+import net.colorizedblock.jev.item.custom.FluteItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.*;
@@ -12,7 +13,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item FLUTE = registerItem("flute",
-            new Item(new FabricItemSettings().maxCount(1)));
+            new FluteItem(new FabricItemSettings().maxCount(1)));
     //region Barks
     public static final Item OAK_BARK = registerItem("oak_bark",
             new BarkItem(new FabricItemSettings()));

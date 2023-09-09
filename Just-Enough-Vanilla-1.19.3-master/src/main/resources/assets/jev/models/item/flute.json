@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "jev:item/flute",
-		"particle": "miencraft:block/gold_block"
+		"1": "block/gold_block",
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{
@@ -20,9 +20,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 90, 0],
-			"translation": [-1.25, -2.25, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [0, 89, -2],
+			"translation": [-1.75, -2.25, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 90, 0],
@@ -42,8 +42,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, -45, -45],
-			"translation": [1.5, 0, 1.5]
+			"rotation": [0, 0, -45]
 		},
 		"fixed": {
 			"rotation": [0, -180, 0],

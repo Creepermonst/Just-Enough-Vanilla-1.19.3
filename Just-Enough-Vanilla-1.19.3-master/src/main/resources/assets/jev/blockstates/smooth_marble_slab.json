@@ -4,7 +4,7 @@
       "model": "jev:block/smooth_marble_slab"
     },
     "type=double": {
-      "model": "jev:block/smooth_marble_block"
+      "model": "jev:block/smooth_marble"
     },
     "type=top": {
       "model": "jev:block/smooth_marble_slab_top"

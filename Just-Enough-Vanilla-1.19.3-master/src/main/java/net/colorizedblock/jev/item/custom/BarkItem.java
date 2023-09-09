@@ -1,15 +1,12 @@
 package net.colorizedblock.jev.item.custom;
 
 import net.colorizedblock.jev.item.ModItems;
-import net.colorizedblock.jev.item.custom.helper.Woods;
-import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemUsageContext;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
 

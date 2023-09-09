@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "minecraft:axes"
+      "item": "jev:hollow_oak_log"
     },
     {
-      "item": "minecraft:oak_log"
+      "item": "minecraft:moss_carpet"
     }
   ],
   "result": {
-    "item": "minecraft:stone",
+    "item": "jev:grassy_hollow_oak_log",
     "count": 1
   }
 }

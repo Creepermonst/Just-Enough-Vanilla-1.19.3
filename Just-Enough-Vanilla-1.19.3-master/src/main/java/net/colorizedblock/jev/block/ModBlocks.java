@@ -21,46 +21,46 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
     //region HollowLogs
     public static final Block HOLLOW_OAK_LOG = registerBlock("hollow_oak_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_DARK_OAK_LOG = registerBlock("hollow_dark_oak_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_BIRCH_LOG = registerBlock("hollow_birch_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_MANGROVE_LOG = registerBlock("hollow_mangrove_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_SPRUCE_LOG = registerBlock("hollow_spruce_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_JUGNLE_LOG = registerBlock("hollow_jungle_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block HOLLOW_ACACIA_LOG = registerBlock("hollow_acacia_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_OAK_LOG = registerBlock("grassy_hollow_oak_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_DARK_OAK_LOG = registerBlock("grassy_hollow_dark_oak_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_BIRCH_LOG = registerBlock("grassy_hollow_birch_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_MANGROVE_LOG = registerBlock("grassy_hollow_mangrove_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_SPRUCE_LOG = registerBlock("grassy_hollow_spruce_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_JUGNLE_LOG = registerBlock("grassy_hollow_jungle_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
     public static final Block GRASSY_HOLLOW_ACACIA_LOG = registerBlock("grassy_hollow_acacia_log",
-            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).requiresTool().nonOpaque()), ModItemGroup.JEV);
+            new HollowLogBlock(FabricBlockSettings.of(Material.WOOD).nonOpaque()), ModItemGroup.JEV);
 
 
     //endregion
